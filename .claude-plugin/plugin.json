@@ -1,0 +1,20 @@
+{
+  "name": "devquay",
+  "version": "0.1.0",
+  "description": "Your team's DevQuay engineering rules in Claude Code: templates, runbooks, security policies, standards and design systems over MCP, with skills that apply them and propose fixes.",
+  "author": {
+    "name": "DevQuay",
+    "url": "https://devquay.com"
+  },
+  "homepage": "https://devquay.com/docs/agents",
+  "repository": "https://github.com/devquay/claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "devquay",
+    "rules",
+    "templates",
+    "runbooks",
+    "design-system",
+    "mcp"
+  ]
+}

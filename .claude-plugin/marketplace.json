@@ -1,0 +1,15 @@
+{
+  "name": "devquay",
+  "owner": {
+    "name": "DevQuay",
+    "url": "https://devquay.com"
+  },
+  "plugins": [
+    {
+      "name": "devquay",
+      "source": "./",
+      "description": "Your team's DevQuay engineering rules in Claude Code: templates, runbooks, security policies, standards and design systems over MCP, with skills that apply them and propose fixes.",
+      "version": "0.1.0"
+    }
+  ]
+}

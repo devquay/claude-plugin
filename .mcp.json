@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "devquay": {
+      "type": "http",
+      "url": "https://mcp.devquay.com/mcp"
+    }
+  }
+}
