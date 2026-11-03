@@ -6,7 +6,7 @@
     "name": "DevQuay",
     "url": "https://devquay.com"
   },
-  "homepage": "https://devquay.com/docs/agents",
+  "homepage": "https://docs.devquay.com/connect-agents/",
   "repository": "https://github.com/devquay/claude-plugin",
   "license": "MIT",
   "keywords": [
