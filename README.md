@@ -26,6 +26,7 @@ If you belong to several workspaces, use `https://mcp.devquay.com/mcp?workspace=
 | `devquay-runbook` | When running an operational procedure, step by step, with you in charge. |
 | `devquay-design-check` | Before finishing UI work, against the adopted design system. |
 | `devquay-propose` | When a rule is wrong or missing: opens a proposal for review. Agents never publish. |
+| `devquay-document-project` | When asked to add this repository to DevQuay: drafts its conventions as proposals, with evidence. |
 
 `/devquay-sync` runs `npx devquay sync` to refresh `AGENTS.md` and `.devquay/docs/`.
 
