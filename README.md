@@ -28,6 +28,6 @@ If you belong to several workspaces, use `https://mcp.devquay.com/mcp?workspace=
 | `devquay-propose` | When a rule is wrong or missing: opens a proposal for review. Agents never publish. |
 | `devquay-document-project` | When asked to add this repository to DevQuay: drafts its conventions as proposals, with evidence. |
 
-`/devquay-sync` runs `npx devquay sync` to refresh `AGENTS.md` and `.devquay/docs/`.
+`/devquay-sync` runs `npx @devquay/cli sync` to refresh `AGENTS.md` and `.devquay/docs/`.
 
 Version 0.1.0. Generated from the DevQuay monorepo.

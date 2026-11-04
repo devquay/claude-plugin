@@ -12,4 +12,4 @@ DevQuay holds this team's engineering rules: templates, runbooks, security polic
 4. In your summary, commit messages and pull request descriptions, cite the rules you followed as `devquay:<document>#<RULE-ID>`.
 5. When a rule or document is wrong, missing or out of date, do not diverge silently: use the devquay-propose skill.
 
-If the MCP server is not connected, read `AGENTS.md` and `.devquay/docs/` instead (written by `npx devquay sync`), and tell the user that live rules need the DevQuay MCP server.
+If the MCP server is not connected, read `AGENTS.md` and `.devquay/docs/` instead (written by `npx @devquay/cli sync`), and tell the user that live rules need the DevQuay MCP server.
